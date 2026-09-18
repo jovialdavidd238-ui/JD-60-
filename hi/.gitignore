@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+.jd60/
+*.log
+blender_jobs/
+projects/
